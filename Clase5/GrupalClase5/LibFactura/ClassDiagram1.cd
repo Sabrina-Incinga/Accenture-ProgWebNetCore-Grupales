@@ -1,2 +1,60 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
-<ClassDiagram /> 
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="LibFactura.Factura.Persona">
+    <Position X="0.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAEAAAAgAAAAAEAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Factura\Persona.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="LibFactura.Factura.Empleado">
+    <Position X="0.5" Y="2.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAACAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAAAEAAAA=</HashCode>
+      <FileName>Factura\Empleado.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="LibFactura.Factura.Usuario">
+    <Position X="7.75" Y="3" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAACAAAAAAAAAAAAAACAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Factura\Usuario.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="LibFactura.Factura.Categoria">
+    <Position X="9.5" Y="3" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAACAAAAAAAAAAAAQAAAgAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Factura\Categoria.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="LibFactura.Factura.Cliente">
+    <Position X="2.5" Y="2.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAACAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAEAAEAAAA=</HashCode>
+      <FileName>Factura\Cliente.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="LibFactura.Factura.DetalleFactura">
+    <Position X="11.25" Y="3" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAACAAAAAAAAAAAAQAAAAAAAAAAAAAAAAAgAAAAAAAA=</HashCode>
+      <FileName>Factura\DetalleFactura.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="LibFactura.Factura.Factura">
+    <Position X="6" Y="2.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAACAABAAAAAAAAAAACAAAEAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Factura\Factura.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="LibFactura.Factura.Producto">
+    <Position X="4.25" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAACAAAAAAAAAAAgAAAAgAAQAAAAAAAAAAAAACAAAAA=</HashCode>
+      <FileName>Factura\Producto.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
