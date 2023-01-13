@@ -1,0 +1,6 @@
+H:\Sabrina\Accenture\ProgramaciónWebNetCoreGrupales\Accenture-ProgWebNetCore-Grupales\Clase5\GrupalClase5\LibFactura\bin\Debug\LibFactura.dll
+H:\Sabrina\Accenture\ProgramaciónWebNetCoreGrupales\Accenture-ProgWebNetCore-Grupales\Clase5\GrupalClase5\LibFactura\bin\Debug\LibFactura.pdb
+H:\Sabrina\Accenture\ProgramaciónWebNetCoreGrupales\Accenture-ProgWebNetCore-Grupales\Clase5\GrupalClase5\LibFactura\obj\Debug\LibFactura.csproj.AssemblyReference.cache
+H:\Sabrina\Accenture\ProgramaciónWebNetCoreGrupales\Accenture-ProgWebNetCore-Grupales\Clase5\GrupalClase5\LibFactura\obj\Debug\LibFactura.csproj.CoreCompileInputs.cache
+H:\Sabrina\Accenture\ProgramaciónWebNetCoreGrupales\Accenture-ProgWebNetCore-Grupales\Clase5\GrupalClase5\LibFactura\obj\Debug\LibFactura.dll
+H:\Sabrina\Accenture\ProgramaciónWebNetCoreGrupales\Accenture-ProgWebNetCore-Grupales\Clase5\GrupalClase5\LibFactura\obj\Debug\LibFactura.pdb

@@ -10,6 +10,6 @@ namespace LibFactura.Factura
     {
         public int Id { get; set; }
         public string Legajo { get; set; }
-
+        public List<Factura> Facturas { get; set; }
     }
 }

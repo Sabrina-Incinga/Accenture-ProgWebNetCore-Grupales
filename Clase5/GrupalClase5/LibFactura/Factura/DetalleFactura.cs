@@ -6,7 +6,10 @@ using System.Threading.Tasks;
 
 namespace LibFactura.Factura
 {
-    internal class DetalleFactura
+    public class DetalleFactura
     {
+        public int Id { get; set; }
+        public Factura Factura { get; set; }
+        public List<Producto> Productos { get; set; }
     }
 }

@@ -6,7 +6,9 @@ using System.Threading.Tasks;
 
 namespace LibFactura.Factura
 {
-    internal class Usuario
+    public class Usuario
     {
+        public int Id { get; set; }
+        public Cliente Cliente { get; set; }
     }
 }
